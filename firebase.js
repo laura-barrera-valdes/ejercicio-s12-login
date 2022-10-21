@@ -5,13 +5,15 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.12.1/firebas
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCKbY8J4FDiEDA9vTh-X-YlTbpcCn0nfT0",
-  authDomain: "ejercicio-s12-login.firebaseapp.com",
-  projectId: "ejercicio-s12-login",
-  storageBucket: "ejercicio-s12-login.appspot.com",
-  messagingSenderId: "584545455516",
-  appId: "1:584545455516:web:608ebfa0995ddc002ecc59"
+  apiKey: "AIzaSyCpvSBBfWPhgA55Z5NtgmeXPx2MOGZZG8k",
+  authDomain: "ejercicio-s12-login-12493.firebaseapp.com",
+  projectId: "ejercicio-s12-login-12493",
+  storageBucket: "ejercicio-s12-login-12493.appspot.com",
+  messagingSenderId: "723011446140",
+  appId: "1:723011446140:web:b95d6403d20432b5d830f9"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
+console.log('Soy Lau');
